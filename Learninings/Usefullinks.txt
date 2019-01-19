@@ -1,0 +1,6 @@
+1) Basic Html Understanding
+https://coder-coder.com/how-to-make-simple-website-html/
+https://www.w3schools.com/tags/att_button_form.asp
+https://www.quora.com/How-do-I-link-a-submit-button-to-another-webpage-using-HTML
+
+2) Materialize CSS
